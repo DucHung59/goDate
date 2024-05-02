@@ -5,14 +5,14 @@
 }
 
 .body {
-    font-family: "Courier New";
+    font-family: "VL_Selphia";
     background-color: #fff5e4;
 }
 
 .title{
     font-size: 40px;
     color: var(--main-color);
-    font-weight: bold;
+    font-weight: lighter;
 }
 
 @font-face {
