@@ -14,3 +14,9 @@
     color: var(--main-color);
     font-weight: bold;
 }
+
+@media  (max-width: 768px) {
+    .body {
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
