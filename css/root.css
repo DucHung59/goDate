@@ -1,0 +1,16 @@
+:root {
+    --main-color: #ff9494;
+    --sub-color: #e67373;
+    --light-color: #ffe3e1;
+}
+
+.body {
+    font-family: "Courier";
+    background-color: #fff5e4;
+}
+
+.title{
+    font-size: 40px;
+    color: var(--main-color);
+    font-weight: bold;
+}
