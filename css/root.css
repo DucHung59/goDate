@@ -15,8 +15,13 @@
     font-weight: bold;
 }
 
+@font-face {
+    font-family: 'VL_Selphia';
+    src: url('/date/resources/fonts/VL_Selphia.otf') format(opentype);
+}
+
 @media  (max-width: 768px) {
     .body {
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'VL_Selphia';
     }
 }
