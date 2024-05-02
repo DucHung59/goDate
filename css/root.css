@@ -5,7 +5,11 @@
 }
 
 .body {
+<<<<<<< HEAD
     font-family: "VL_Selphia";
+=======
+    font-family: 'VL_Selphia';
+>>>>>>> 69320abdff9c92c71df497d20231f478ecb4fbcb
     background-color: #fff5e4;
 }
 
